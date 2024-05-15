@@ -1,0 +1,25 @@
+hr {
+    margin: 50px 0;
+  }
+  .thumbnail-wrapper {
+    margin-top: -350px;
+    height: 85px;
+    width: 90%;
+    margin-left: 60px;
+  }
+  .thumbnail-wrapper .slick-track .slick-slide {
+    text-align: center;
+  }
+  .thumbnail-wrapper .slick-track .slick-slide img {
+    display: flex;
+    margin: 0px auto;
+    height: 5vh;
+    width: 30%;
+    border-radius: 5%;
+    cursor: pointer;
+  }
+
+  .myDiv .img{
+     width: 500px;
+     
+  }
